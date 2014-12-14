@@ -1,0 +1,30 @@
+# Build settings
+markdown: kramdown
+
+# Setup
+title:               Jekyll 
+tagline:             "Des ressources pour l'utilisation de Jekyll"
+description:         "J'ai très vite été séduit par Jekyll et c'est ici que je partage cette idyle..."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://projetjekyll.github.io/" # the base hostname & protocol for your site
+paginate:            5
+sass:
+  compressed: true
+
+# About/contact
+author:
+  name:              Jean-Marc Kraëber
+  url:               https://twitter.com/BlogOnWordPress
+  email:             jmarck4@gmail.com
+
+# Custom vars
+version:             1.0.1
+
+
+# Social icons
+show_social_icons: true
+github_username: jmarck4
+twitter_username: BlogOnWordPress
+
+# Google analytics
+google_analytics:
